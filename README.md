@@ -1,10 +1,10 @@
-# CRH DaisyBill Email Notification Module
+# Email Notification Module
 
 Production-ready Microsoft Graph email notification module for the CRH DaisyBill RPA automation.
 
 ## Purpose
 
-This module sends standardized HTML notification emails for:
+This module sends standardised HTML notification emails for:
 
 - Completed DaisyBill automation runs
 - No-data runs
@@ -15,7 +15,7 @@ It uses Microsoft Graph app-only authentication through MSAL and protects agains
 
 ## Minimum Python Version
 
-Python 3.11 or later.
+Python 3.12 or later.
 
 ## Folder Layout
 
