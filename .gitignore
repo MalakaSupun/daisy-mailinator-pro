@@ -1,0 +1,14 @@
+.env
+output/*
+!output/.gitkeep
+input/*
+!input/.gitkeep
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+.venv/
