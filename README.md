@@ -41,7 +41,7 @@ pip install -r requirements.txt
 Create `.env` from `.env.example` and set real values:
 
 ```env
-EMAIL_FROM_ADDRESS=noreply-rpa1@innobothealth.com
+EMAIL_FROM_ADDRESS=
 EMAIL_TO_ADDRESSES=operations@example.com
 EMAIL_CC_ADDRESSES=
 EMAIL_CHECKPOINT_PATH=output/email_checkpoint.json
